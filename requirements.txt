@@ -1,0 +1,15 @@
+pymysql==1.0.3
+psycopg2-binary==2.9.6
+SQLAlchemy==2.0.15
+
+# Python 3.12‑kompatible Data‑Stack
+pandas>=2.2,<3          # Wheels für cp312 verfügbar :contentReference[oaicite:0]{index=0}
+numpy>=1.26,<2
+
+python-dotenv==1.0.0
+pyyaml>=6.0.2,<7        # cp312‑Wheels ab 6.0.2 :contentReference[oaicite:1]{index=1}
+
+rich==13.4.1
+
+pytest==7.3.1
+pytest-mock==3.10.0
